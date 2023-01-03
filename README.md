@@ -4,6 +4,8 @@ This is a project to learn how to plot choropleth maps. The data I will be using
 
 For easy access to choropleth_maps.html, click on this link: https://kellyngsf.github.io/choropleth_maps/choropleth_maps.html.
 
+![alt text](image.jpg)
+
 # Conclusions
 - The continent with the lowest wealth and health values is Africa, in terms of their GDP per capita and life expectancy at birth, respectively. 
 - In general, Latin American countries are around the middle range in terms of wealth and health. 
